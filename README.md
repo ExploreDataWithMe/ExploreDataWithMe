@@ -1,16 +1,82 @@
-## Hi there 👋
+Hi, I'm Mduduzi 👋
+Data Scientist | Data Analyst | Machine Learning Enthusiast
 
-<!--
-**ExploreDataWithMe/ExploreDataWithMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Data Scientist and Data Analyst focused on turning raw data into meaningful insights and practical machine learning solutions.
 
-Here are some ideas to get you started:
+I enjoy working across the data lifecycle — from collecting and cleaning data to exploratory analysis, visualization, model development, evaluation, and documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 What I Work With
+
+Programming & Data
+
+Python
+SQL
+R
+Pandas
+NumPy
+
+Machine Learning
+
+Scikit-Learn
+Supervised & Unsupervised Learning
+Classification
+Anomaly Detection
+Isolation Forest
+Gaussian Mixture Models
+One-Class SVM
+Autoencoders
+
+Analytics & Visualization
+
+Exploratory Data Analysis
+Statistical Analysis
+Tableau
+Power BI
+Excel
+Matplotlib
+Seaborn
+
+Tools
+
+Git & GitHub
+Jupyter Notebook
+Visual Studio Code
+Linux / Ubuntu
+🚀 Featured Projects
+📊 Machine Learning Classification Pipeline
+
+An end-to-end machine learning project covering data extraction, preprocessing, exploratory analysis, feature preparation, model training, evaluation, and documentation.
+
+Tech: Python · Pandas · Scikit-Learn · BeautifulSoup
+
+🚨 Advanced Anomaly Detection
+
+A machine learning framework for identifying unusual observations using multiple anomaly-detection approaches.
+
+Tech: Python · Pandas · Scikit-Learn · Isolation Forest · GMM · One-Class SVM · Autoencoders
+
+🌐 Web Scraping & EDA
+
+Projects focused on collecting structured datasets from external sources, cleaning the data, and preparing it for analysis.
+
+Tech: Python · BeautifulSoup · Pandas · Jupyter
+
+🎓 Certifications
+IBM Data Science Professional Certificate — Coursera
+Google Data Analytics Professional Certificate — Coursera
+📚 Currently Building
+End-to-end data science projects
+Machine learning pipelines
+Data analytics dashboards
+Anomaly detection systems
+Kaggle portfolio and competitions
+Stronger software engineering practices for data projects
+🤝 Let's Connect
+
+I'm open to collaborating on data science, data analytics, machine learning, and software development projects.
+
+LinkedIn: www.linkedin.com/in/mduduzi-nkomo-00b776280
+
+GitHub: ExploreDataWithMe
+
+Building one project at a time. Turning data into decisions. 🚀
