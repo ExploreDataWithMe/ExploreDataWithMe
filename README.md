@@ -45,21 +45,7 @@ Linux / Ubuntu
 🚀 Featured Projects
 📊 Machine Learning Classification Pipeline
 
-An end-to-end machine learning project covering data extraction, preprocessing, exploratory analysis, feature preparation, model training, evaluation, and documentation.
 
-Tech: Python · Pandas · Scikit-Learn · BeautifulSoup
-
-🚨 Advanced Anomaly Detection
-
-A machine learning framework for identifying unusual observations using multiple anomaly-detection approaches.
-
-Tech: Python · Pandas · Scikit-Learn · Isolation Forest · GMM · One-Class SVM · Autoencoders
-
-🌐 Web Scraping & EDA
-
-Projects focused on collecting structured datasets from external sources, cleaning the data, and preparing it for analysis.
-
-Tech: Python · BeautifulSoup · Pandas · Jupyter
 
 🎓 Certifications
 IBM Data Science Professional Certificate — Coursera
